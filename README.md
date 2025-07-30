@@ -1,25 +1,25 @@
-## 👋 Olá, eu sou o Fast
+## 👋 Hello, I'm Fast.
 
-Sou desenvolvedor **fullstack** com foco em performance, escalabilidade e boas práticas.  
-Atuo tanto no front-end quanto no back-end, criando soluções completas, rápidas e modernas.
+I am a **fullstack** developer focused on performance, scalability, and good practices.
+I work both on the front-end and back-end, creating complete, fast, and modern solutions.
 
-### 🚀 Tecnologias que utilizo
+### 🚀 Technologies I use
 
 #### Front-end
-- **HTML, CSS, JavaScript e TypeScript**
-- **React** para interfaces dinâmicas e performáticas
-- **Next.js** para criar sites rápidos e completos com React
-- **Tailwind CSS** para layouts modernos e responsivos
+- **HTML, CSS, JavaScript and TypeScript**.
+- **React** for dynamic and high-performance interfaces.
+- **Next.js** to create fast and complete websites with React.
+- **Tailwind CSS** for modern and responsive layouts.
 
 #### Back-end
-- **Node.js** para APIs rápidas e eficientes
-- **Express** e **Next API Routes** para estrutura de rotas
-- **MongoDB** como banco de dados principal
-- **Prisma** ou **Mongoose** como ORM/ODM
+- **Node.js** for fast and efficient APIs.
+- **Express** and **Next API Routes** for routes structure.
+- **MongoDB** as the main database.
+- **Prisma** or **Mongoose** as ORM/ODM.
 
 ---
 
-### 🛠️ Stack principal
+### 🛠️ Main stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -31,10 +31,10 @@ Atuo tanto no front-end quanto no back-end, criando soluções completas, rápid
 
 ---
 
-### 📌 Projetos em destaque
-> Veja os repositórios no meu perfil para conhecer um pouco do meu trabalho.
+### 📌 Featured projects
+> Check out the repositories on my profile to learn a bit about my work.
 
-### 📫 Contato
+### 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-fastzaaao@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fastzaaao@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-conflitar-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/771116641617444914)
